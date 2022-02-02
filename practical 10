@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+  $x = 29;
+  $y = 4; 
+  echo ($x + $y), "<br>";
+  echo($x - $y), "<br>";
+  echo($x * $y), "<br>";
+  echo($x / $y), "<br>";
+  echo($x % $y), "<br>";
+?> <br><br>
+
+
+<?php
+$a = 50;
+$b = 30;
+  if ($a == 50 and $b == 30)
+      echo "and Success <br>";
+ 
+  if ($a == 50 or $b == 20)
+      echo "or Success <br>";
+ 
+  if ($a == 50 xor $b == 20)
+      echo "xor Success <br>";
+ 
+  if ($a == 50 && $b == 30)
+      echo "&& Success <br>";
+ 
+  if ($a == 50 || $b == 20)
+      echo "|| Success <br>";
+?>
+
+</body>
+</html>
