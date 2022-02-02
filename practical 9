@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+echo "Today is:- " . date("d/m/y") . "<br>";
+date_default_timezone_set("Asia/Calcutta");
+echo "Current time is:- " . date("h:i:sa") . "<br>" . "<br>";
+$ipaddress = getenv("REMOTE_ADDR") ;
+ Echo "Your IP Address is " . "119.160.199.91" ;
+?>
+
+</body>
+</html>
