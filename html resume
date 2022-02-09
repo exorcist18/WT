@@ -1,0 +1,50 @@
+<html>
+<title>RESUME<H1></title>
+<head><div style="height: 65px; width: 1500px;background-color: blueviolet;font-size: 50px;">RESUME</div></head><br>
+<style>
+	.myDiv {
+  border: 5px outset red;
+  background-color: lightblue;
+  height: 1400px;
+  width: 1500;
+
+} </style>
+<body>
+	
+	<div class="myDiv"><p><h2>PERSONAL DETAILS</h2>
+		<h6 style="font-size:20;">Karan Thacker <br>
+		E-Mail:- karanthacker109@gmail.com <br>
+		Contact:- 8141844111
+		</p><br> </h6>
+	
+
+	<p><h2>ACADEMIC DETAILS</h2>
+		<h6 style="font-size:20;">2017-2021 University of boston, USA
+		<ul>
+  <li>Graphics Designer</li>
+  <li>UX/UI Designer</li>
+  <li>Networing</li>
+</ul></h6>
+		</p><br>
+	<p><h2>SKILLS</h2>
+		<h6 style="font-size:20;"><ul>
+  <li>Python</li>
+  <li>CSS3</li>
+  <li>TCL</li>
+</ul></h6>
+		</p><br>
+	<p><h2>ACHIVEMENTS</h2>
+		<h6 style="font-size:20;"><ul>
+  <li>University award for Best UI development</li>
+  <li>Best young developer 2021</li>
+  </ul></h6>
+		</p><br>
+	<p><h2>LANGUAGES</h2>
+		<h6 style="font-size:20;"><ul>
+  <li>English</li>
+  <li>Hindi</li>
+  <li>Gujrati</li>
+</ul></h6>
+		</p><br>
+	</div>
+</body>
