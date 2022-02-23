@@ -1,0 +1,11 @@
+<html>
+<head>
+<title> Meter Tag </title>
+</head>
+<body>
+<p>Your profile completed <meter value="80" min="0" max="100">
+80%</meter></p>
+<p>Free space :<meter value ="52" min="0" max="100">52% 
+</meter> </p>
+</body>
+</html>
