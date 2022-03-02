@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>PHP check palindrome</title>
+</head>
+<body>
+	<?php
+	function checkpalindrome($s)
+	{
+		if ($s == strrev($s))
+			return 1;
+		else
+			return 0;
+	}
+	echo checkpalindrome('karan '). "\n";
+?>
+</body>
+</html 
