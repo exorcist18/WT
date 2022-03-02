@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>PHP reverse string</title>
+</head>
+<body>
+	<?php 
+	$string = "EXORCIST";
+	echo "Reverse of $string is " .strrev($string);
+	?>
+</body>
+</html 
