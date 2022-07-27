@@ -9,7 +9,7 @@
 	{
 		if ($s == strrev($s))
 			return 1;
-		else
+		elseawawd
 			return 0;
 	}
 	echo checkpalindrome('karan '). "\n";
